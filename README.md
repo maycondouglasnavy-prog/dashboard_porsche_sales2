@@ -10,7 +10,7 @@ The project combines **data visualization, business intelligence and premium UI/
 
 > Premium automotive sales dashboard inspired by the Porsche Brazil digital experience.
 
-![Porsche Sales Dashboard]([file:///D:/Users/Usuario/Documents/Courses/DIO/Acelera%C3%A7%C3%A3o%20AI%20Reports%20com%20Excel,%20GPT%20Agents%20e%20Claude%20Code/index.html](https://www.cnnbrasil.com.br/auto/porsche-lanca-911-turbo-s-hibrido-no-brasil-por-r-21-milhoes/))
+![Porsche Sales Dashboard]([file:///D:/Users/Usuario/Documents/Courses/DIO/Acelera%C3%A7%C3%A3o%20AI%20Reports%20com%20Excel,%20GPT%20Agents%20e%20Claude%20Code/index.html](https://www.cnnbrasil.com.br/auto/porsche-lanca-911-turbo-s-hibrido-no-brasil-por-r-21-milhoes/)
 
 ---
 
