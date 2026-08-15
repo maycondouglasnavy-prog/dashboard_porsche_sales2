@@ -151,7 +151,7 @@ The project was developed using web technologies:
 - **HTML5**
 - **CSS3**
 - **JavaScript**
-- **Chart.js** *(if applicable)*
+- **Chart.js**
 - Responsive Web Design
 
 ---
