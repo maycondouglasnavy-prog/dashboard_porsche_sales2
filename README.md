@@ -10,7 +10,8 @@ The project combines **data visualization, business intelligence and premium UI/
 
 > Premium automotive sales dashboard inspired by the Porsche Brazil digital experience.
 
-![Porsche Sales Dashboard](https://www.cnnbrasil.com.br/auto/porsche-lanca-911-turbo-s-hibrido-no-brasil-por-r-21-milhoes/)
+![Porsche Sales Dashboard](<img width="419" height="314" alt="image" src="https://github.com/user-attachments/assets/5b807dae-c91b-419b-aa7f-f22a58c523b0" />
+)
 
 ---
 
